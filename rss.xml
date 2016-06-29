@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[M Genio]]></title>
         <description><![CDATA[M Genio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/m-genio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 20:36:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 29 Jun 2016 20:39:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/m-genio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd8a7873-a348-49fc-a44c-bb9f1201e0f2.png">]]></description>
+            <link>https://thegrid.ai/m-genio/006811da-a6ab-4fa3-8f25-bd282f9cfe4a/index.html</link>
+            <guid isPermaLink="false">006811da-a6ab-4fa3-8f25-bd282f9cfe4a</guid>
+            <pubDate>Wed, 29 Jun 2016 20:39:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b04ad152-4c2e-48f2-96d9-228fa423f479.jpg">]]></description>
-            <link>undefinedcd811b92-89d2-4510-b8a8-b8bc5d5c55a9/index.html</link>
+            <link>https://thegrid.ai/m-genio/cd811b92-89d2-4510-b8a8-b8bc5d5c55a9/index.html</link>
             <guid isPermaLink="false">cd811b92-89d2-4510-b8a8-b8bc5d5c55a9</guid>
             <pubDate>Wed, 29 Jun 2016 20:36:44 GMT</pubDate>
         </item>
